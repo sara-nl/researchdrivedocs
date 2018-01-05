@@ -7,13 +7,13 @@
 .. _contents:
    :depth: 4
 
-.. image:: /Images/researchdrive2.png
-           :width: 300px
-           :align: right
-
 ***************************
 ResearchDrive documentation
 ***************************
+
+.. image:: /Images/researchdrive2.png
+           :width: 300px
+           :align: right
 
 Welcome to the documentation page for the ResearchDrive data storage and sharing service at `SURFsara`_. The information on these pages will help you get started. We welcome your comments at helpdesk@surfsara.nl or your :ref:`contribution <doc-howto>` to help us improve the documentation.
 
