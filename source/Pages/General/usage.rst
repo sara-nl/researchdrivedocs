@@ -1,5 +1,9 @@
 .. _usage:
 
+.. image:: /Images/researchdrive3.png
+           :width: 300px
+           :align: right
+
 *************************
 How to use ResearchDrive?
 *************************

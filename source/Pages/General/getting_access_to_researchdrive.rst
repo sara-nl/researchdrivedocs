@@ -1,5 +1,9 @@
 .. _getting-access-to-researchdrive:
 
+.. image:: /Images/researchdrive3.png
+           :width: 300px
+           :align: right
+
 *******************************
 Getting access to ResearchDrive
 *******************************
