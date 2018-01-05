@@ -27,7 +27,9 @@ Welcome to the documentation page for the ResearchDrive data storage and sharing
 .. toctree::
    :maxdepth: 1
    
-   Pages/General/about_researchdrive
+   Pages/General/about_rd
+   Pages/General/getting_access_to_researchdrive
+   Pages/General/usage
    
 
 * :ref:`search`
