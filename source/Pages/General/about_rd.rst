@@ -12,6 +12,29 @@ ResearchDrive is a service that allows researchers to store and share their rese
 
 ResearchDrive can be accessed using the web interface at: https://researchdrive.surfsara.nl. It can be accessed using WebDAV, which enables you to use tools like Cyberduck, curl and others to access your data. WebDAV can also be used to couple ResearchDrive to other services supporting WebDAV.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .. Links:
 
 .. _`Owncloud`: https://owncloud.com
