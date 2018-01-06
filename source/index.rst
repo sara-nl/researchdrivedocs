@@ -9,7 +9,7 @@
 
 
 
-.. image:: /Images/researchdrive3.png
+.. image:: /Images/researchdrive4.png
            :width: 300px
            :align: right
 
