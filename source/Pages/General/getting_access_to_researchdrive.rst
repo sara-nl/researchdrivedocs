@@ -10,9 +10,6 @@ Getting access to ResearchDrive
 
 In this page you will find general information about getting access to the ResearchDrive.
 
-.. contents:: 
-    :depth: 4
-
 If you are interested to ResearchDrive, please contact the `SURFsara helpdesk`_ (helpdesk@surfsara.nl).
 
 
