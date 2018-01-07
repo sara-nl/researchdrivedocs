@@ -12,10 +12,7 @@ ResearchDrive is using the Owncloud software. Fortunately, Owncloud provides ext
 
 Although the Onwcloud manual gives to a lot information, we have added some stuff here in order to get you going quickly.
 
-Federated Sharing between ResearchDrive and SURFdrive
------------------------------------------------------
-
-There is an instruction video :ref:`here <fedshare>`
+* Federated Sharing between ResearchDrive and SURFdrive :ref:`here <fedshare>`
 
 .. note:: **Important:** We have not turned on all features that are described in the Owncloud User Manual.
 
