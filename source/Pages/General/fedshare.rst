@@ -3,6 +3,7 @@
 .. image:: /Images/researchdrive3.png
            :width: 300px
            :align: right
+           :target: https://researchdrive.surfsara.nl
 
 ***************************************************************
 How to do federated sharing between ResearchDrive and SURFdrive
