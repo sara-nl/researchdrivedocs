@@ -20,8 +20,10 @@ Since ResearchDrive uses the `Owncloud`_ software, it can also be accessed with 
    :align: left
 
 .. image:: https://owncloud.com/wp-content/themes/ownCloud/assets/images/icons/ios-app-store-badge.png
-   :align: left
+   :width: 20%
    :target: https://goo.gl/LTLcuC
+
+
 
 .. Links:
 
