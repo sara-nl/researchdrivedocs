@@ -13,7 +13,7 @@ ResearchDrive is a service that allows researchers to store and share their rese
 
 ResearchDrive can be accessed using the web interface at: https://researchdrive.surfsara.nl. It can be accessed using WebDAV, which enables you to use tools like Cyberduck, curl and others to access your data. WebDAV can also be used to couple ResearchDrive to other services supporting WebDAV.
 
-Since ResearchDrive uses the `Owncloud`_ software, it can also be accessed with mobile clients for both Andoid and iOS and there is also a desktop client available for Windows, Mac OSX and Linux at `OwncloudDownload`_. 
+Since ResearchDrive uses the `Owncloud`_ software, it can also be accessed with mobile clients for both Andoid and iOS and there is also a desktop client available for Windows, Mac OSX and Linux at `Owncloud's download page`_. 
 
 .. image:: https://owncloud.com/wp-content/themes/ownCloud/assets/images/qr-code-android-app.svg
    :width: 20%
@@ -29,4 +29,4 @@ Since ResearchDrive uses the `Owncloud`_ software, it can also be accessed with 
 
 .. _`Owncloud`: https://owncloud.com
 .. _`Object Store`: https://www.surf.nl/en/services-and-products/object-store/index.html
-.. _`OwncloudDownload`: https://owncloud.com/download/
+.. _`Owncloud's download page`: https://owncloud.com/download/
