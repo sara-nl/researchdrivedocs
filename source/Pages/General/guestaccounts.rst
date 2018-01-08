@@ -1,4 +1,4 @@
-.. _fedshare:
+.. _guestaccounts:
 
 .. image:: /Images/researchdrive3.png
            :width: 300px
