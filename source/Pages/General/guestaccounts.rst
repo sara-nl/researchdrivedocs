@@ -5,9 +5,9 @@
            :align: right
            :target: https://researchdrive.surfsara.nl
 
-***************************************************************
-How to do federated sharing between ResearchDrive and SURFdrive
-***************************************************************
+****************************
+How to create guest accounts
+****************************
 
 It is possible for you as a regular user to create guest accounts for people you want to collaborate with and who do not have a ResearchDrive account. You can do this by creating a folder and create the guest acount while sharing the folder. How this is done is shown in the video below.
 
