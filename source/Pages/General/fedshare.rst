@@ -9,6 +9,10 @@
 How to do federated sharing between ResearchDrive and SURFdrive
 ***************************************************************
 
+.. image:: /Images/surfresearchdrive.png
+           :width: 500px
+           :align: center
+
 In order to demonstrate to you how federated sharing works, we have prepared a video for you. 
 
 .. raw:: html
