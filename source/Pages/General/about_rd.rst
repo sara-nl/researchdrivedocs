@@ -15,16 +15,6 @@ ResearchDrive can be accessed using the web interface at: https://researchdrive.
 
 Since ResearchDrive uses the `Owncloud`_ software, it can also be accessed with mobile clients for both Andoid and iOS and there is also a desktop client available for Windows, Mac OSX and Linux at `Owncloud's download page`_. 
 
-.. image:: https://owncloud.com/wp-content/themes/ownCloud/assets/images/qr-code-android-app.svg
-   :width: 20%
-   :align: left
-
-.. image:: https://owncloud.com/wp-content/themes/ownCloud/assets/images/icons/ios-app-store-badge.png
-   :width: 20%
-   :target: https://goo.gl/LTLcuC
-
-
-
 .. Links:
 
 .. _`Owncloud`: https://owncloud.com
