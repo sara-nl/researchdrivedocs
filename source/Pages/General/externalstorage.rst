@@ -9,6 +9,20 @@
 How to couple external storage
 ******************************
 
+It is possible to connect external storage to your ReserachDrive account. This allows you also to share data residing on external storage with user who do not have access to that storage. 
+
+Currently the following external storage systems are supported: Amazon S3, Dropbox, Google Drive, Openstack Object Storage (SWIFT), ownCloud, SFTP and WebDAV. 
+
+The video below shows you how to connect to `SURFsara's S3 Object Store`_ system.
+
+.. note:: **Important:** Your credentials that you have to provide will be stored on the ResearchDrive systems. 
+
+
 .. raw:: html
 
     <iframe width="1120" height="630" src="https://www.youtube.com/embed/_vRqXvgA5Ws" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+ 
+.. Links:
+
+.. _`SURFsara's S3 Object Store`: https://www.surf.nl/en/services-and-products/object-store/index.html
+
