@@ -15,7 +15,7 @@ Currently the following external storage systems are supported: Amazon S3, Dropb
 
 The video below shows you how to connect to `SURFsara's S3 Object Store`_ system.
 
-.. note:: **Important:** Your credentials that you have to provide will be stored on the ResearchDrive systems. 
+.. note:: **Important:** Your credentials that you have to provide to get access to the external storage system will be stored on the ResearchDrive systems. Of course we do everything in our power to keep them secure and to avoid misuse.
 
 
 .. raw:: html
