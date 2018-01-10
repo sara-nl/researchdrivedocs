@@ -9,6 +9,11 @@
 Client-side encryption
 **********************
 
+.. image:: https://cryptomator.org/img/stage/logo.png
+           :width: 150px
+           :align: right
+           :target: https:/cryptomator.org
+
 Cryptomator
 -----------
 
