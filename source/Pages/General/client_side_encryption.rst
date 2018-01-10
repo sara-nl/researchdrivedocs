@@ -22,7 +22,7 @@ The video below shows you how Cryptomator works toghether with ResearchDrive.
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/XqFj7abvNqQ" align="middle" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    <iframe style="float:middle" width="560" height="315" src="https://www.youtube.com/embed/XqFj7abvNqQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 .. Links:
 
