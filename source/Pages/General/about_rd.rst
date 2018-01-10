@@ -17,7 +17,7 @@ Since ResearchDrive uses the `Owncloud`_ software, it can also be accessed with 
 
 ResearchDrive uses server-side encryption which means that the storage backend encrypts all data at rest and manages the encryption keys. Data transfers to and from ResearchDrive are encrypted using solely https.
 
-.. note:: **Limitation:** Currently it is not possible to upload file larger than 5GB. We have reported this issue and Owncloud will fix this in the near future.
+.. note:: **Limitation:** Currently it is not possible to upload files larger than 5GB. We have reported this issue and Owncloud will fix this in the near future.
 
 .. Links:
 
