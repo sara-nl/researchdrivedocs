@@ -23,7 +23,7 @@ Using Cryptomator you create an encrypted folder called a vault. In this vault y
 
 What you could do is to use Cryptomator together with ResearchDrive is to install the `Owncloud`_ sync client that syncs the contents of a folder in your computer to ResearchDrive. Then you can create a vault inside you sync folder. All data you put in your vault on your computer will be encrypted and then sent to ResearchDrive. 
 
-If you want to share your encrypted data with someone, then you can share your vault using ResearchDrive. But you will need to get the password you have used to encrypt the key to the vault to the person you are sharing your data with in a secure manner like an encrypted email.
+If you want to share your encrypted data with someone, then you can share your vault using ResearchDrive. But you will need to get the password you have used to encrypt the key to the vault to the person you are sharing your data with in a secure manner like an encrypted email. Of course, this person needs to have Cryptomator installed.
 
 The video below shows you how Cryptomator works toghether with ResearchDrive.
 
