@@ -20,7 +20,7 @@ The video below shows you how to connect to `SURFsara's S3 Object Store`_ system
 
 .. raw:: html
 
-    <iframe width="1120" height="630" src="https://www.youtube.com/embed/_vRqXvgA5Ws" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_vRqXvgA5Ws" align="center" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
  
 .. Links:
 
