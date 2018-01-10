@@ -21,7 +21,9 @@ The ResearchDrive backend storage system is encrypted. But that is server-side e
 
 Using Cryptomator you create an encrypted folder called a vault. In this vault you can put your data that will be encrypted. The encryption key will also reside in the vault but it is encrypted with a password. The vault can be unlocked by starting up the Cryptomator software and type in your password.
 
-What you could do to use Cryptomator together with ResearchDrive is to install the `Owncloud`_ sync client that syncs the contents of a folder in your computer to ResearchDrive. Then you can create a vault inside you sync folder. All data you put in your vault on your computer will be encrypted and then sent to ResearchDrive. 
+What you could do is to use Cryptomator together with ResearchDrive is to install the `Owncloud`_ sync client that syncs the contents of a folder in your computer to ResearchDrive. Then you can create a vault inside you sync folder. All data you put in your vault on your computer will be encrypted and then sent to ResearchDrive. 
+
+If you want to share your encrypted data with someone, then you can share your vault using ResearchDrive. But you will need to get the password you have used to encrypt the key to the vault to the person you are sharing your data with in a secure manner like an encrypted email.
 
 The video below shows you how Cryptomator works toghether with ResearchDrive.
 
