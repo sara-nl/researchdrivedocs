@@ -15,4 +15,6 @@ It is possible for you as a regular user to create guest accounts for people you
 
 .. raw:: html
 
+    <p style="text-align:center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Y-70NBud3zA" align="middle" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </p>

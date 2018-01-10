@@ -20,8 +20,9 @@ The video below shows you how to connect to `SURFsara's S3 Object Store`_ system
 
 .. raw:: html
 
+    <p style="text-align:center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/_vRqXvgA5Ws" align="middle" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
- 
+    </p>
 .. Links:
 
 .. _`SURFsara's S3 Object Store`: https://www.surf.nl/en/services-and-products/object-store/index.html

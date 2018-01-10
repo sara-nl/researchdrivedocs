@@ -17,4 +17,6 @@ In order to demonstrate to you how federated sharing works, we have prepared a v
 
 .. raw:: html
 
+    <p style="text-align:center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/zTQ6tcYCOFs" align="middle" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    </p>
