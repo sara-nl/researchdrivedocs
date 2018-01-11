@@ -25,7 +25,7 @@ What you could do is to use Cryptomator together with ResearchDrive is to instal
 
 If you want to share your encrypted data with someone, then you can share your vault using ResearchDrive. But you will need to get the password you have used to encrypt the key to the vault to the person you are sharing your data with in a secure manner like an encrypted email and this person needs to have Cryptomator installed.
 
-The video below shows you how Cryptomator works toghether with ResearchDrive.
+The video below shows you how Cryptomator works together with ResearchDrive.
 
 .. raw:: html
 
