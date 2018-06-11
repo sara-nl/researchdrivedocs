@@ -21,12 +21,12 @@ We have a pre-configured cyberduck profile for you. You can download it from: :d
 
 Windows users need to copy the file to %APPDATA%\\Cyberduck\\Profiles. Mac users need to copy it to ~/Library/Group Containers/G69SCX94XU.duck/Library/Application Support/. 
 
-.. image:: /Images/researchdrive.png
+.. image:: /Images/researchdrive_cyb.png
            :width: 650px
 
 After this you are prompted for a password when you click on the bookmark.
 
-.. image:: /Images/researchdrive_2.png
+.. image:: /Images/researchdrive_cyb_2.png
            :width: 650px
 
 You can choose to save your password.
