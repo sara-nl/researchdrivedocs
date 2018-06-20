@@ -51,7 +51,7 @@ Then you get the following options:
 3. Fill in the URL. In this case this will be: **https://researchdrive.surfsara.nl/remote.php/webdav**
 4. Select the type of webdav storage system. Select **Owncloud**
 5. Type in your user name.
-6. Select **y) Yes type in my own password**
+6. Select: **y) Yes type in my own password**
 7. Type in your password and type it in again for confirmation. This is the webdav password you have in the ResearchDrive web page at Settings->Security->WebDAV passwords
 8. Confirm your settings
 
@@ -116,3 +116,6 @@ You can unmount this file system by:
 
      fusermount -u /path/to/local/mount
 
+An example is shown below:
+
+.. image:: rclonemount.png
