@@ -12,7 +12,7 @@ Apart from being an rsync-type tool for cloud storage, it has the following feat
 * Timestamps preserved on files
 * Partial syncs supported on a whole file basis
 * `Copy <https://rclone.org/commands/rclone_copy/>`_ mode to just copy new/changed files
-* `Sync <https://rclone.org/commands/rclone_copy/>`_ (one way) mode to make a directory identical
+* `Sync <https://rclone.org/commands/rclone_sync/>`_ (one way) mode to make a directory identical
 * `Check <https://rclone.org/commands/rclone_check/>`_ mode to check for file hash equality
 * Can sync to and from network, eg two different cloud accounts
 * Optional encryption ( `Crypt <https://rclone.org/crypt/>`_ )
@@ -25,7 +25,7 @@ Apart from being an rsync-type tool for cloud storage, it has the following feat
 Authorisation
 =============
 
-Rclone needs some variables set in order to work. You can set these in a **.config/rclone/rclone.conf** file which is the default. This file can have the following contents:
+Rclone needs some variables set in order to work. You can set these in a **rclone.conf** file. This file can have the following contents:
 
 .. code-block:: console
 
@@ -36,7 +36,7 @@ Rclone needs some variables set in order to work. You can set these in a **.conf
     user = <user name>
     pass = <encrypted password>
 
-This file can be generated with the following command:
+This file can be generated interactively with the following command:
 
 .. code-block:: console
 
@@ -55,7 +55,9 @@ Then you get the following options:
 7. Type in your password and type it in again for confirmation. This is the webdav password you have in the ResearchDrive web page at Settings->Security->WebDAV passwords
 8. Confirm your settings
 
-If you want to put the **rclone.conf** file in a non-standard place, then that is possible, but then you need to run your rclone commands in the following manner:
+The **rclone.conf** file resides in **.config/rclone/** by default.
+
+If you want to put the **rclone.conf** file in a non-standard place, then that is possible too, but then you need to run your rclone commands in the following manner:
 
 .. code-block:: console
 
