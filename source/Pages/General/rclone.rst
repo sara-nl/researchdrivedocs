@@ -25,7 +25,7 @@ Apart from being an rsync-type tool for cloud storage, it has the following feat
 Authorisation
 =============
 
-Rclone needs some variables set in order to work. You can set these in a **.config/rclone/rclone.conf** file. This file can have the following contents:
+Rclone needs some variables set in order to work. You can set these in a **.config/rclone/rclone.conf** file which is the default. This file can have the following contents:
 
 .. code-block:: console
 
