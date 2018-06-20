@@ -108,7 +108,7 @@ Using rclone to mount a file system in user space is done as follows:
 
 .. code-block:: console
 
-    rclone mount RD:path/to/dir /path/to/local/mount
+    rclone mount RD:[path/to/dir] /path/to/local/mount
 
 You can unmount this file system by:
 
