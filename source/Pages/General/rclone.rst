@@ -44,7 +44,7 @@ This file can be generated with the following command:
 
 Then you get the following options:
 
-.. image:: rcloneoptions.png
+.. image:: /Images/rcloneoptions.png
 
 1. Select **n** for new remote and choose the name, RD in this example
 2. Select the storage system. Select **Webdav**
@@ -118,4 +118,4 @@ You can unmount this file system by:
 
 An example is shown below:
 
-.. image:: rclonemount.png
+.. image:: /Images/rclonemount.png
