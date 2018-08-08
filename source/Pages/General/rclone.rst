@@ -75,6 +75,15 @@ Copy the source to the destination. Doesn’t transfer unchanged files, testing 
 
 If **my/destination/folder** doesn’t exist, it is created and the contents of **/my/folder** goes there.
 
+==========================
+Working with large objects
+==========================
+
+When you want to upload large files to ResearchDrive, we recommend using a timeout of 10 minutes per gigabyte of the largest source file. As an example, the largest file in the source directory is 5GB. Calculating the argument for --timeout gives: 10 minutes x 5GB = 50 minutes.
+
+.. code-block:: console
+    rclone -v copy --timeout 50m ~/my_5gb_file.bin RD:my/destination/folder
+
 ================================================
 Sync source directory with destination directory
 ================================================
