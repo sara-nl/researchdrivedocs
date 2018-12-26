@@ -5,13 +5,13 @@
            :align: right
            :target: https://researchdrive.surfsara.nl
 
-*******************************
-Getting access to ResearchDrive
-*******************************
+********************************
+Getting access to Research Drive
+********************************
 
-In this page you will find general information about getting access to the ResearchDrive.
+In this page you will find general information about getting access to the Research Drive.
 
-If you are interested to ResearchDrive, please contact the `SURFsara helpdesk`_ (helpdesk@surfsara.nl).
+If you are interested to Research Drive, please contact the `SURFsara helpdesk`_ (helpdesk@surfsara.nl).
 
 
 Currently, we support two types of accounts

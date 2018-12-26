@@ -5,9 +5,9 @@
            :align: right
            :target: https://researchdrive.surfsara.nl
 
-***************************************************************
-How to do federated sharing between ResearchDrive and SURFdrive
-***************************************************************
+****************************************************************
+How to do federated sharing between Research Drive and SURFdrive
+****************************************************************
 
 .. image:: /Images/surfresearchdrive.png
            :width: 400px

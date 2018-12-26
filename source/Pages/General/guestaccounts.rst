@@ -9,7 +9,7 @@
 How to create guest accounts
 ****************************
 
-It is possible for you as a regular user to create guest accounts for people you want to collaborate with and who do not have a ResearchDrive account. You can do this by creating a folder and create the guest acount while sharing the folder. How this is done is shown in the video below.
+It is possible for you as a regular user to create guest accounts for people you want to collaborate with and who do not have a Research Drive account. You can do this by creating a folder and create the guest acount while sharing the folder. How this is done is shown in the video below.
 
 .. note:: **Important:** Once you have created a guest account, you can never delete it. However, if you don't want to share data anymore with this person, you can just unshare the folder and the guest user won't be able to access it anymore. 
 

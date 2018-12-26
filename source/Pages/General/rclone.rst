@@ -52,7 +52,7 @@ Then you get the following options:
 4. Select the type of webdav storage system. Select **Owncloud**
 5. Type in your user name.
 6. Select: **y) Yes type in my own password**
-7. Type in your password and type it in again for confirmation. This is the webdav password you have in the ResearchDrive web page at Settings->Security->WebDAV passwords
+7. Type in your password and type it in again for confirmation. This is the webdav password you have in the Research Drive web page at Settings->Security->WebDAV passwords
 8. Confirm your settings
 
 The **rclone.conf** file resides in **.config/rclone/** by default.
@@ -79,7 +79,7 @@ If **my/destination/folder** doesn’t exist, it is created and the contents of 
 Working with large objects
 ==========================
 
-When you want to upload large files to ResearchDrive, we recommend using a timeout of 10 minutes per gigabyte of the largest source file. As an example, the largest file in the source directory is 5GB. Calculating the argument for --timeout gives: 10 minutes x 5GB = 50 minutes.
+When you want to upload large files to Research Drive, we recommend using a timeout of 10 minutes per gigabyte of the largest source file. As an example, the largest file in the source directory is 5GB. Calculating the argument for --timeout gives: 10 minutes x 5GB = 50 minutes.
 
 .. code-block:: console
 

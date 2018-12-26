@@ -5,11 +5,11 @@
            :align: right
            :target: https://researchdrive.surfsara.nl
 
-*************************
-How to use ResearchDrive?
-*************************
+**************************
+How to use Research Drive?
+**************************
 
-ResearchDrive is using the Owncloud software. Fortunately, Owncloud provides extensive online documentation on how to use it. It may be found at: `Owncloud User Manual`_.
+Research Drive is using the Owncloud software. Fortunately, Owncloud provides extensive online documentation on how to use it. It may be found at: `Owncloud User Manual`_.
 
 Although the Owncloud manual gives to a lot information, we have added some stuff here in order to get you going quickly.
 
@@ -23,7 +23,7 @@ Although the Owncloud manual gives to a lot information, we have added some stuf
    cyberduck
    rclone
 
-.. note:: **Important:** We have not turned on all features that are described in the Owncloud User Manual, so you may find features there that are not supported (yet) by ResearchDrive.
+.. note:: **Important:** We have not turned on all features that are described in the Owncloud User Manual, so you may find features there that are not supported (yet) by Research Drive.
 
 .. Links:
 
