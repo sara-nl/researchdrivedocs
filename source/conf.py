@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'ResearchDrive Documentation'
-copyright = u'2015, ResearchDrive Support <helpdesk@surfsara.nl>'
+project = u'Research Drive Documentation'
+copyright = u'2015, Research Drive Support <helpdesk@surfsara.nl>'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -197,7 +197,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'ResearchDriveDocumentation.tex', u'ResearchDrive Documentation Documentation',
-   u'ResearchDrive Support \\textless{}helpdesk@surfsara.nl\\textgreater{}', 'manual'),
+   u'Research Drive Support \\textless{}helpdesk@surfsara.nl\\textgreater{}', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -226,8 +226,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'swiftdocumentation', u'ResearchDrive Documentation Documentation',
-     [u'ResearchDrive Support <helpdesk@surfsara.nl>'], 1)
+    ('index', 'swiftdocumentation', u'Research Drive Documentation Documentation',
+     [u'Research Drive Support <helpdesk@surfsara.nl>'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -240,8 +240,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ResearchDriveDocumentation', u'ResearchDrive Documentation Documentation',
-   u'ResearchDrive Support <helpdesk@surfsara.nl>', 'ResearchDriveDocumentation', 'One line description of project.',
+  ('index', 'ResearchDriveDocumentation', u'Research Drive Documentation Documentation',
+   u'Research Drive Support <helpdesk@surfsara.nl>', 'ResearchDriveDocumentation', 'One line description of project.',
    'Miscellaneous'),
 ]
 
