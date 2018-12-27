@@ -14,12 +14,19 @@ In this page you will find general information about getting access to the Resea
 If you are interested to Research Drive, please contact the `SURFsara helpdesk`_ (helpdesk@surfsara.nl).
 
 
-Currently, we support two types of accounts
+Currently, we support three types of logins
 
-- Accounts that are stored in SURFsara's Central User Administration (CUA) system. The advantage is these accounts are that when you use other SURFsara services, you can use the same set of credentials for all services.
-- Local accounts.
+- Login to a local accounts.
+- Login using an account that is stored in SURFsara's Central User Administration (CUA) system. The advantage is these accounts are that when you use other SURFsara services, you can use the same set of credentials for all services.
+- Login using the credentials from your own institute using `SURFconext`_.
 
-What we are working on at the moment is to enable you to use your account of your own institute through `SURFconext`_. 
+When you login using the credentials of your own institute using `SURFconext`_, you may see a screen like this:
+
+.. image:: /Images/loginerror.png
+           :width: 600px
+           :align: center
+
+Then you need to contact us and we will help you.
 
 .. Links:
 
