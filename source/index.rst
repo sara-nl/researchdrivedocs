@@ -27,11 +27,13 @@ Welcome to the documentation page for the Research Drive data storage and sharin
 
 .. toctree::
    :maxdepth: 1
-   
+
    Pages/General/about_rd
    Pages/General/getting_access_to_researchdrive
+   Pages/General/branded_instance
    Pages/General/usage
-   
+   Pages/General/rclone
+
 
 * :ref:`search`
 
