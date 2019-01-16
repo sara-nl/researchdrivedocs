@@ -23,9 +23,13 @@ Additionally, provide us with these icons:
 
 * favicon.png (16 x 16 pixels) = Icon in the browser tab
 * favicon-touch.png (64 x 64 pixels) = Icon for tablets & telephones
-* logo-icon.png (40 x 30 pixels) = Logo in the application banner
+* logo-header.png (250 x 70 pixels ) = Logo in the application banner
 * logo.png (250 x 120 pixels ) = Logo one the login page
 * logo-mail.gif (120 x 65 pixels) = Logo used in emails
+
+
+Optionally we can host your background.png at the login page
+
 
 
 ======
@@ -53,6 +57,12 @@ Notification mail:
            :width: 600px
            :align: center
 
+
+Branded background image on the login page:
+
+.. image:: /Images/background_example.png
+           :width: 600px
+           :align: center
 
 .. Links:
 
