@@ -88,8 +88,6 @@ When you want to upload large files to Research Drive, we recommend using a time
 
 Use also the flag ```--use-cookies``` to return always on the same Research Drive backend, to prevent file lock between backends.
 
-with which you always end up with the same backend.
-
 .. code-block:: console
 
     rclone copy --use-cookies --timeout 50m ~/my_5gb_file.bin RD:my/destination/folder
@@ -130,6 +128,8 @@ Using rclone to mount a file system in user space is done as follows:
 .. code-block:: console
 
     rclone mount --use-cookies --timeout 15m RD:[path/to/dir] /path/to/local/mount
+
+The flag ```--use-cookies``` is needed, to get you always on the same Research Drive backend, to prevent file lock between backends. The timeout flag is useful for uploading large files, we recommend using a timeout of 10 minutes per gigabyte of the largest source file.
 
 You can unmount this file system by:
 
