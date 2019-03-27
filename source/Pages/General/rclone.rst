@@ -9,7 +9,7 @@
 rclone
 ******
 
-In this page you will find documentation about rclone. Rclone is the rsync for cloud storage. Information on how to install rclone and other things may be found at: https://rclone.org. 
+In this page you will find documentation about rclone. Rclone is the rsync for cloud storage. Information on how to install rclone and other things may be found at: https://rclone.org.
 
 Apart from being an rsync-type tool for cloud storage, it has the following features:
 
@@ -23,7 +23,7 @@ Apart from being an rsync-type tool for cloud storage, it has the following feat
 * Optional encryption ( `Crypt <https://rclone.org/crypt/>`_ )
 * Optional FUSE mount ( `rclone mount <https://rclone.org/commands/rclone_mount/>`_ )
 
-.. contents:: 
+.. contents::
     :depth: 4
 
 =============
@@ -86,9 +86,13 @@ Working with large objects
 
 When you want to upload large files to Research Drive, we recommend using a timeout of 10 minutes per gigabyte of the largest source file. As an example, the largest file in the source directory is 5GB. Calculating the argument for --timeout gives: 10 minutes x 5GB = 50 minutes.
 
+Use also the flag ```--use-cookies``` to return always on the same Research Drive backend, to prevent file lock between backends.
+
+with which you always end up with the same backend.
+
 .. code-block:: console
 
-    rclone copy --timeout 50m ~/my_5gb_file.bin RD:my/destination/folder
+    rclone copy --use-cookies --timeout 50m ~/my_5gb_file.bin RD:my/destination/folder
 
 ================================================
 Sync source directory with destination directory
@@ -125,7 +129,7 @@ Using rclone to mount a file system in user space is done as follows:
 
 .. code-block:: console
 
-    rclone mount RD:[path/to/dir] /path/to/local/mount
+    rclone mount --use-cookies --timeout 15m RD:[path/to/dir] /path/to/local/mount
 
 You can unmount this file system by:
 
